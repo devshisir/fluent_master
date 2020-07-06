@@ -1,0 +1,217 @@
+#mobile_quote_bottom_custom {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background: #fff;
+    padding: 15px 10px
+}
+
+#mobile_quote_bottom_custom a {
+    background: #ff7a00;
+    box-shadow: 3px 3px 0 rgba(0, 0, 0, .1), inset 3px 3px 0 rgba(0, 0, 0, .1);
+    border-radius: 5px;
+    padding: 10px 0;
+    text-align: center;
+    display: block;
+    color: #fff;
+    position: relative
+}
+
+#mobile_quote_bottom_custom a i {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 20px
+}
+
+#mobile_quote_bottom_custom.hide {
+    display: none !important
+}
+
+.bottomText {
+    position: relative !important
+}
+
+.formula_areaContent_slider_item img {
+    width: auto !important;
+    margin: 0 auto;
+    display: table
+}
+
+.formula_areaContent_slider_item h5 {
+    text-align: left !important;
+    font-size: 26px;
+    color: #393939;
+    line-height: 39px
+}
+
+#formula_area .formula_areaContent h4 {
+    font-weight: 600 !important;
+    font-size: 30px
+}
+
+.formula_areaContent h4 {
+    position: relative;
+    padding-top: 38px
+}
+
+#banar_bottom {
+    padding-bottom: 0 !important
+}
+
+#formula_area .formula_areaContent h4::after {
+    top: 0 !important
+}
+
+#formula_area .formula_areaContent {
+    padding-top: 40px
+}
+
+#form_area2.form_area_2 .type_2_thank_right {
+    width: 80%;
+    margin: 0 auto
+}
+
+.container3 {
+    position: relative
+}
+
+.container3 video {
+    min-height: 450px;
+    background: #000;
+    width: 100% !important
+}
+
+.last_add_banar_top {
+    margin-top: 20px;
+    font-size: 19px;
+    font-weight: 500;
+    color: #212121;
+    width: 90%;
+    line-height: 30px
+}
+
+.last_add_banar_top span {
+    font-weight: 600
+}
+
+#BanarArea .BanarAreaContent h3 {
+    font-weight: 600 !important
+}
+
+.container3 .info_div_video_top {
+    position: absolute;
+    width: 100%;
+    top: 35%;
+    left: 0;
+    text-align: center;
+    z-index: 9999999999;
+    transform: translateY(-50%)
+}
+
+.container3 .info_div_video_top h6 {
+    color: #fff;
+    width: 66%;
+    margin: 0 auto;
+    line-height: 25px
+}
+
+#mobile_video_area {
+    position: relative
+}
+
+#mobile_video_area p {
+    position: absolute;
+    top: 9%;
+    left: 50%;
+    transform: translateY(-50%);
+    transform: translateX(-50%);
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    z-index: 9999999999;
+    font-size: 12px;
+    width: 77%
+}
+
+.formula_areaContent_slider .owl-dots {
+    text-align: center;
+    margin-top: 30px
+}
+
+.formula_areaContent_slider .owl-dots .owl-dot {
+    height: 13px;
+    width: 13px;
+    background: #cfdbd5;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 0 8px;
+    transition: .4s
+}
+
+.formula_areaContent_slider .owl-dots .owl-dot.active {
+    background: #05386b
+}
+
+.slick-dots {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 34px
+}
+
+.slick-dots li {
+    display: inline-block
+}
+
+.slick-dots li button {
+    outline: 0;
+    border: none;
+    height: 13px;
+    width: 13px;
+    background: #cfdbd5;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 0 8px;
+    transition: .4s
+}
+
+.slick-active button {
+    background: #05386b !important
+}
+
+#banar_bottom {
+    z-index: 9 !important;
+    background-color: #fff !important
+}
+
+.BanarArea_ract {
+    z-index: 999 !important;
+    height: auto !important
+}
+
+#formula_area {
+    background: #fff !important
+}
+
+.bottom_shpe {
+    height: 200px !important
+}
+
+.formula_areaContent_slider .owl-dots .owl-dot {
+    background: #cfdbd5 !important
+}
+
+.formula_areaContent_slider .owl-dots .owl-dot.active {
+    background: rgba(5, 56, 107, .7) !important
+}
+
+#mobile_quote_bottom_custom a {
+    background: linear-gradient(270deg, #ff7a00 0, #ff6e5a 100%) !important;
+    box-shadow: 3px 3px 0 rgba(0, 0, 0, .1), inset 3px 3px 0 rgba(0, 0, 0, .1) !important;
+    border-radius: 5px !important
+}
